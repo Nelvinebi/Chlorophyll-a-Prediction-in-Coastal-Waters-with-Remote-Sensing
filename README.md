@@ -75,3 +75,4 @@ This project is licensed under the MIT License.
 Agbozu Ebingiye Nelvin
 📧 nelvinebingiye@gmail.com
 🔗 GitHub: nelvinebi
+LinkedIn: https://www.linkedin.com/in/agbozu-ebi/
